@@ -1,0 +1,43 @@
+body{
+    display: flex;
+}
+
+.contenedor{
+    border: 3px solid #CCC;
+    margin:0 auto;
+    width: 60%;
+    background-color: rgb(233, 233, 233);
+    padding: 10px;
+}
+.encabezado{
+    background-color: rgb(209, 197, 197);
+    padding: 10px;
+}
+.encabezado1{
+    display: flex;
+}
+.datospersonales{
+    margin-left: 20%;
+    width: 100%;
+    font-family: 'Teko', sans-serif;
+}
+.metas{
+    font-family: 'Roboto', sans-serif;
+}
+.titulo{
+    border: 3px solid #CCC;
+    color: dimgrey;
+    font-family: 'Kanit', sans-serif;
+}
+.detalle{
+    font-family: 'Teko', sans-serif;
+}
+
+button{
+
+    width: 70px;
+    height: 70px;
+    font-size: 60px;
+    background-color: white;
+    color: blue;
+}
